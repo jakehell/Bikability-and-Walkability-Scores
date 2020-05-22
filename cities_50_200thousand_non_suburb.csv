@@ -1,223 +1,223 @@
-Target Geo Id,Target Geo Id2,City Name,Population,isSuburb,walkingScore,bikingScore - network
-1620000US4803000,4803000,"Amarillo, Texas",199924,FALSE,40,null
-1620000US0640130,640130,"Lancaster, California",159053,FALSE,29,null
-1620000US0655156,655156,"Palmdale, California",156667,FALSE,24,null
-1620000US0664224,664224,"Salinas, California",156259,FALSE,47,null
-1620000US4839148,4839148,"Killeen, Texas",149103,FALSE,33,null
-1620000US3673000,3673000,"Syracuse, New York",142749,FALSE,60,1.3
-1620000US4848072,4848072,"Midland, Texas",142344,FALSE,42,null
-1620000US4876000,4876000,"Waco, Texas",138183,FALSE,36,null
-1620000US0682954,682954,"Visalia, California",133800,FALSE,35,null
-1620000US4516000,4516000,"Columbia, South Carolina",133451,FALSE,38,2
-1620000US3825700,3825700,"Fargo, North Dakota",124844,FALSE,44,3
-1620000US4801000,4801000,"Abilene, Texas",122999,FALSE,30,null
-1620000US3774440,3774440,"Wilmington, North Carolina",122607,FALSE,35,null
-1620000US0682590,682590,"Victorville, California",122312,FALSE,19,null
-1620000US4202000,4202000,"Allentown, Pennsylvania",121433,FALSE,70,null
-1620000US4853388,4853388,"Odessa, Texas",120568,FALSE,40,null
-1620000US4807000,4807000,"Beaumont, Texas",118428,FALSE,33,null
-1620000US3345140,3345140,"Manchester, New Hampshire",112525,FALSE,49,1.3
-1620000US0862000,862000,"Pueblo, Colorado",111750,FALSE,35,null
-1620000US1238250,1238250,"Lakeland, Florida",110516,FALSE,37,null
-1620000US0832155,832155,"Greeley, Colorado",107348,FALSE,36,null
-1620000US4874144,4874144,"Tyler, Texas",105729,FALSE,36,null
-1620000US5539225,5539225,"Kenosha, Wisconsin",100164,FALSE,45,null
-1620000US0681554,681554,"Vacaville, California",100154,FALSE,33,null
-1620000US4822660,4822660,"Edinburg, Texas",98665,FALSE,28,null
-1620000US3601000,3601000,"Albany, New York",97279,FALSE,65,0.8
-1620000US1656260,1656260,"Nampa, Idaho",96252,FALSE,30,null
-1620000US5380010,5380010,"Yakima, Washington",93884,FALSE,50,null
-1620000US3728080,3728080,"Greenville, North Carolina",93137,FALSE,33,null
-1620000US4041850,4041850,"Lawton, Oklahoma",92859,FALSE,34,null
-1620000US3702140,3702140,"Asheville, North Carolina",92452,FALSE,36,1.4
-1620000US0680238,680238,"Tracy, California",91812,FALSE,42,null
-1620000US5176432,5176432,"Suffolk, Virginia",91185,FALSE,15,null
-1620000US3350260,3350260,"Nashua, New Hampshire",89246,FALSE,38,1.3
-1620000US4810912,4810912,"Bryan, Texas",85445,FALSE,33,null
-1620000US0918430,918430,"Danbury, Connecticut",84730,FALSE,39,null
-1620000US0646898,646898,"Merced, California",83316,FALSE,38,null
-1620000US5335275,5335275,"Kennewick, Washington",82943,FALSE,34,null
-1620000US5147672,5147672,"Lynchburg, Virginia",82126,FALSE,29,null
-1620000US4843888,4843888,"Longview, Texas",81647,FALSE,29,null
-1620000US1706613,1706613,"Bloomington, Illinois",77962,FALSE,35,null
-1620000US0846465,846465,"Loveland, Colorado",77446,FALSE,26,null
-1620000US3725580,3725580,"Gastonia, North Carolina",77024,FALSE,24,null
-1620000US4872176,4872176,"Temple, Texas",76256,FALSE,31,null
-1620000US5353545,5353545,"Pasco, Washington",74778,FALSE,36,null
-1620000US4829336,4829336,"Georgetown, Texas",74180,FALSE,22,null
-1620000US0423620,423620,"Flagstaff, Arizona",73964,FALSE,38,null
-1620000US0680812,680812,"Turlock, California",73504,FALSE,41,null
-1620000US3807200,3807200,"Bismarck, North Dakota",73112,FALSE,36,2.9
-1620000US3734200,3734200,"Jacksonville, North Carolina",72896,FALSE,25,null
-1620000US1840788,1840788,"Lafayette, Indiana",72168,FALSE,36,null
-1620000US1718823,1718823,"Decatur, Illinois",71290,FALSE,32,null
-1620000US0610046,610046,"Camarillo, California",69127,FALSE,42,null
-1620000US1851876,1851876,"Muncie, Indiana",68529,FALSE,37,null
-1620000US0121184,121184,"Dothan, Alabama",68247,FALSE,23,null
-1620000US1982425,1982425,"Waterloo, Iowa",67798,FALSE,37,null
-1620000US4875428,4875428,"Victoria, Texas",67015,FALSE,35,null
-1620000US0642202,642202,"Lodi, California",66995,FALSE,55,null
-1620000US5560500,5560500,"Oshkosh, Wisconsin",66729,FALSE,42,null
-1620000US0645022,645022,"Madera, California",65706,FALSE,44,null
-1620000US4832372,4832372,"Harlingen, Texas",65436,FALSE,36,null
-1620000US0680644,680644,"Tulare, California",64475,FALSE,40,null
-1620000US2529405,2529405,"Haverhill, Massachusetts",64041,FALSE,41,null
-1620000US3944856,3944856,"Lorain, Ohio",64028,FALSE,37,null
-1620000US0656784,656784,"Petaluma, California",61917,FALSE,47,null
-1620000US0686328,686328,"Woodland, California",60531,FALSE,48,null
-1620000US3676540,3676540,"Utica, New York",60100,FALSE,58,null
-1620000US0658240,658240,"Porterville, California",59988,FALSE,40,null
-1620000US3476070,3476070,"Vineland, New Jersey",59966,FALSE,26,null
-1620000US4241216,4241216,"Lancaster, Pennsylvania",59420,FALSE,81,null
-1620000US3974118,3974118,"Springfield, Ohio",59282,FALSE,40,null
-1620000US1840392,1840392,"Kokomo, Indiana",57869,FALSE,38,null
-1620000US2569170,2569170,"Taunton, Massachusetts",57296,FALSE,28,null
-1620000US0631960,631960,"Hanford, California",56910,FALSE,35,null
-1620000US1378800,1378800,"Valdosta, Georgia",56426,FALSE,30,null
-1620000US0652582,652582,"Novato, California",55655,FALSE,33,null
-1620000US3209700,3209700,"Carson, Nevada",55414,FALSE,35,null
-1620000US1801468,1801468,"Anderson, Indiana",55037,FALSE,31,null
-1620000US4101000,4101000,"Albany, Oregon",54453,FALSE,34,null
-1620000US4739560,4739560,"Kingsport, Tennessee",54076,FALSE,24,null
-1620000US5135624,5135624,"Harrisonburg, Virginia",54033,FALSE,45,null
-1620000US0683668,683668,"Watsonville, California",53920,FALSE,65,null
-1620000US5144984,5144984,"Leesburg, Virginia",53917,FALSE,36,null
-1620000US3709060,3709060,"Burlington, North Carolina",53748,FALSE,33,null
-1620000US2552490,2552490,"Peabody, Massachusetts",53278,FALSE,41,null
-1620000US0947515,947515,"Milford, Connecticut",53120,FALSE,31,null
-1620000US0618394,618394,"Delano, California",53014,FALSE,34,null
-1620000US1255925,1255925,"Pensacola, Florida",52713,FALSE,35,null
-1620000US1820728,1820728,"Elkhart, Indiana",52367,FALSE,37,null
-1620000US2642820,2642820,"Kentwood, Michigan",51868,FALSE,24,null
-1620000US4945860,4945860,"Logan, Utah",51619,FALSE,41,null
-1620000US4769420,4769420,"Smyrna, Tennessee",50775,FALSE,19,null
-1620000US2540710,2540710,"Methuen, Massachusetts",50698,FALSE,,null
-1620000US3459190,3459190,"Plainfield, New Jersey",50693,FALSE,59,null
-1620000US2937592,2937592,"Joplin, Missouri",50657,FALSE,36,null
-1620000US4828068,4828068,"Galveston, Texas",50457,FALSE,54,null
-1620000US3954040,3954040,"Newark, Ohio",50029,FALSE,31,null
-1620000US0807850,807850,"Boulder, Colorado",107353,FALSE,57,4.1
-1620000US0618100,618100,"Davis, California",69289,FALSE,44,3.8
-1620000US1805860,1805860,"Bloomington, Indiana",84981,FALSE,43,3
-1620000US1901855,1901855,"Ames, Iowa",67154,FALSE,43,2.9
-1620000US0613014,613014,"Chico, California",94776,FALSE,45,2.4
-1620000US5613150,5613150,"Casper, Wyoming",57461,FALSE,39,2.4
-1620000US0505320,505320,"Bentonville, Arkansas",51111,FALSE,25,2.4
-1620000US4123850,4123850,"Eugene, Oregon",171245,FALSE,45,2.3
-1620000US2915670,2915670,"Columbia, Missouri",123180,FALSE,31,2.3
-1620000US4105800,4105800,"Bend, Oregon",97590,FALSE,33,2.3
-1620000US5305280,5305280,"Bellingham, Washington",90665,FALSE,49,2.3
-1620000US0523290,523290,"Fayetteville, Arkansas",86751,FALSE,32,2.3
-1620000US3050200,3050200,"Missoula, Montana",74428,FALSE,46,2.3
-1620000US4115800,4115800,"Corvallis, Oregon",58641,FALSE,48,2.3
-1620000US2970000,2970000,"Springfield, Missouri",168122,FALSE,38,2.2
-1620000US2071000,2071000,"Topeka, Kansas",125904,FALSE,36,2.2
-1620000US1919000,1919000,"Davenport, Iowa",102085,FALSE,41,2.2
-1620000US2038900,2038900,"Lawrence, Kansas",97286,FALSE,39,2.2
-1620000US2717000,2717000,"Duluth, Minnesota",85884,FALSE,35,2.2
-1620000US2642160,2642160,"Kalamazoo, Michigan",76545,FALSE,48,2.2
-1620000US1922395,1922395,"Dubuque, Iowa",57941,FALSE,40,2.2
-1620000US1765000,1765000,"Rockford, Illinois",146526,FALSE,42,2.1
-1620000US2646000,2646000,"Lansing, Michigan",118427,FALSE,43,2.1
-1620000US3006550,3006550,"Billings, Montana",109550,FALSE,35,2.1
-1620000US4224000,4224000,"Erie, Pennsylvania",96471,FALSE,59,2.1
-1620000US2629000,2629000,"Flint, Michigan",95943,FALSE,43,2.1
-1620000US1712385,1712385,"Champaign, Illinois",88029,FALSE,50,2.1
-1620000US5566000,5566000,"Racine, Wisconsin",77432,FALSE,56,2.1
-1620000US5502375,5502375,"Appleton, Wisconsin",74526,FALSE,42,2.1
-1620000US0103076,103076,"Auburn, Alabama",65738,FALSE,27,2.1
-1620000US5537825,5537825,"Janesville, Wisconsin",64565,FALSE,35,2.1
-1620000US5613900,5613900,"Cheyenne, Wyoming",63957,FALSE,37,2.1
-1620000US2044250,2044250,"Manhattan, Kansas",54959,FALSE,39,2.1
-1620000US5351300,5351300,"Olympia, Washington",52555,FALSE,39,2.1
-1620000US4715160,4715160,"Clarksville, Tennessee",156794,FALSE,18,2
-1620000US4052500,4052500,"Norman, Oklahoma",123471,FALSE,31,2
-1620000US1822000,1822000,"Evansville, Indiana",117963,FALSE,42,2
-1620000US0151000,151000,"Montgomery, Alabama",198218,FALSE,26,1.9
-1620000US0150000,150000,"Mobile, Alabama",189572,FALSE,32,1.9
-1620000US2754880,2754880,"Rochester, Minnesota",116961,FALSE,30,1.6
-1620000US0485540,485540,"Yuma, Arizona",97908,FALSE,31,1.6
-1620000US4147000,4147000,"Medford, Oregon",82347,FALSE,37,1.6
-1620000US0650258,650258,"Napa, California",79263,FALSE,42,1.6
-1620000US2360545,2360545,"Portland, Maine",66417,FALSE,61,1.6
-1620000US0120104,120104,"Decatur, Alabama",54264,FALSE,25,1.6
-1620000US4070300,4070300,"Stillwater, Oklahoma",50391,FALSE,36,1.6
-1620000US5168000,5168000,"Roanoke, Virginia",99920,FALSE,42,1.5
-1620000US1270600,1270600,"Tallahassee, Florida",193551,FALSE,32,1.4
-1620000US4740000,4740000,"Knoxville, Tennessee",187500,FALSE,31,1.4
-1620000US1225175,1225175,"Gainesville, Florida",133857,FALSE,36,1.4
-1620000US1303440,1303440,"Athens, Georgia",125964,FALSE,27,1.4
-1620000US0845970,845970,"Longmont, Colorado",96577,FALSE,39,1.4
-1620000US0659920,659920,"Redding, California",91772,FALSE,26,1.4
-1620000US2430325,2430325,"Frederick, Maryland",72146,FALSE,46,1.4
-1620000US5358235,5358235,"Richland, Washington",57303,FALSE,33,1.4
-1620000US0137000,137000,"Huntsville, Alabama",197318,FALSE,24,1.3
-1620000US1304204,1304204,"Augusta, Georgia",196939,FALSE,,1.3
-1620000US4164900,4164900,"Salem, Oregon",173442,FALSE,42,1.3
-1620000US1759000,1759000,"Peoria, Illinois",111388,FALSE,39,1.3
-1620000US3912000,3912000,"Canton, Ohio",70458,FALSE,48,1.3
-1620000US2270000,2270000,"Shreveport, Louisiana",188987,FALSE,31,1.2
-1620000US2582000,2582000,"Worcester, Massachusetts",185877,FALSE,56,1.2
-1620000US1349008,1349008,"Macon, Georgia",153095,FALSE,31,1.2
-1620000US1369000,1369000,"Savannah, Georgia",145862,FALSE,43,1.2
-1620000US1772000,1772000,"Springfield, Illinois",114694,FALSE,35,1.2
-1620000US0535710,535710,"Jonesboro, Arkansas",76990,FALSE,21,1.2
-1620000US2836000,2836000,"Jackson, Mississippi",164422,FALSE,28,1.1
-1620000US1319000,1319000,"Columbus, Georgia",194160,FALSE,26,0.8
-1620000US2240735,2240735,"Lafayette, Louisiana",126143,FALSE,42,0.8
-1620000US0623182,623182,"Fairfield, California",116884,FALSE,32,0.8
-1620000US0980000,980000,"Waterbury, Connecticut",108093,FALSE,48,0.8
-1620000US0177256,177256,"Tuscaloosa, Alabama",101113,FALSE,33,0.8
-1620000US0641992,641992,"Livermore, California",90269,FALSE,40,0.8
-1620000US1301052,1301052,"Albany, Georgia",75249,FALSE,25,0.8
-1620000US4737640,4737640,"Jackson, Tennessee",66903,FALSE,25,0.8
-1620000US3988000,3988000,"Youngstown, Ohio",64958,FALSE,37,0.8
-1620000US2158620,2158620,"Owensboro, Kentucky",59809,FALSE,36,0.8
-1620000US1664090,1664090,"Pocatello, Idaho",56266,FALSE,38,0.8
-1620000US0541000,541000,"Little Rock, Arkansas",197881,FALSE,,2.2
-1620000US1258715,1258715,"Port St. Lucie, Florida",195248,FALSE,13,null
-1620000US4659020,4659020,"Sioux Falls, South Dakota",181883,FALSE,,1.4
-1620000US0670098,670098,"Santa Rosa, California",177586,FALSE,44,1.4
-1620000US0827425,827425,"Fort Collins, Colorado",167830,FALSE,,3.2
-1620000US1912000,1912000,"Cedar Rapids, Iowa",133174,FALSE,,2.2
-1620000US2603000,2603000,"Ann Arbor, Michigan",121890,FALSE,,2.2
-1620000US4815976,4815976,"College Station, Texas",116218,FALSE,,null
-1620000US0669196,669196,"Santa Maria, California",107408,FALSE,47,3.6
-1620000US5531000,5531000,"Green Bay, Wisconsin",104879,FALSE,,2.1
-1620000US4879000,4879000,"Wichita Falls, Texas",104576,FALSE,30,null
-1620000US3539380,3539380,"Las Cruces, New Mexico",102926,FALSE,32,1.3
-1620000US1871000,1871000,"South Bend, Indiana",101860,FALSE,,2.1
-1620000US4864472,4864472,"San Angelo, Texas",100215,FALSE,31,null
-1620000US2545000,2545000,"New Bedford, Massachusetts",95315,FALSE,66,null
-1620000US0524550,524550,"Fort Smith, Arkansas",87845,FALSE,34,2.1
-1620000US4965330,4965330,"St. George, Utah",87178,FALSE,29,null
-1620000US3570500,3570500,"Santa Fe, New Mexico",84612,FALSE,39,1.4
-1620000US4850820,4850820,"New Braunfels, Texas",84612,FALSE,21,null
-1620000US1973335,1973335,"Sioux City, Iowa",82396,FALSE,,1.3
-1620000US2241155,2241155,"Lake Charles, Louisiana",78001,FALSE,37,0.8
-1620000US1938595,1938595,"Iowa City, Iowa",76290,FALSE,,2.2
-1620000US2964550,2964550,"St. Joseph, Missouri",75959,FALSE,33,null
-1620000US4652980,4652980,"Rapid City, South Dakota",75443,FALSE,29,2.2
-1620000US0602364,602364,"Apple Valley, California",73508,FALSE,12,null
-1620000US5522300,5522300,"Eau Claire, Wisconsin",68866,FALSE,34,3
-1620000US2108902,2108902,"Bowling Green, Kentucky",68401,FALSE,35,1.2
-1620000US2756896,2756896,"St. Cloud, Minnesota",68043,FALSE,31,null
-1620000US3649121,3649121,"Mount Vernon, New York",67593,FALSE,,0.8
-1620000US0660018,660018,"Redondo Beach, California",67412,FALSE,71,null
-1620000US0686972,686972,"Yuba City, California",66992,FALSE,40,null
-1620000US4738320,4738320,"Johnson City, Tennessee",66778,FALSE,25,2.1
-1620000US4865600,4865600,"San Marcos, Texas",63509,FALSE,39,null
-1620000US0831660,831660,"Grand Junction, Colorado",63374,FALSE,31,null
-1620000US1639700,1639700,"Idaho Falls, Idaho",61535,FALSE,40,0.8
-1620000US1875428,1875428,"Terre Haute, Indiana",60753,FALSE,,null
-1620000US3032800,3032800,"Great Falls, Montana",58701,FALSE,43,1.6
-1620000US3832060,3832060,"Grand Forks, North Dakota",56948,FALSE,40,2.4
-1620000US2906652,2906652,"Blue Springs, Missouri",55104,FALSE,27,null
-1620000US0439370,439370,"Lake Havasu City, Arizona",55090,FALSE,16,null
-1620000US4858820,4858820,"Port Arthur, Texas",55018,FALSE,34,null
-1620000US3757500,3757500,"Rocky Mount, North Carolina",54242,FALSE,23,null
-1620000US0655184,655184,"Palm Desert, California",53185,FALSE,,null
-1620000US5540775,5540775,"La Crosse, Wisconsin",51567,FALSE,53,null
-1620000US3119595,3119595,"Grand Island, Nebraska",51478,FALSE,40,1.6
-1620000US1616750,1616750,"Coeur d'Alene, Idaho",51303,FALSE,35,null
-1620000US2605920,2605920,"Battle Creek, Michigan",51247,FALSE,37,null
+City Name,Population,walkingScore,bikingScore - network,best average walk and bike score
+"Amarillo, Texas",199924,40,18,29
+"Lancaster, California",159053,29,18,23
+"Palmdale, California",156667,24,18,21
+"Salinas, California",156259,47,18,32
+"Killeen, Texas",149103,33,18,25
+"Syracuse, New York",142749,60,13,37
+"Midland, Texas",142344,42,18,30
+"Waco, Texas",138183,36,18,27
+"Visalia, California",133800,35,18,26
+"Columbia, South Carolina",133451,38,20,29
+"Fargo, North Dakota",124844,44,30,37
+"Abilene, Texas",122999,30,18,24
+"Wilmington, North Carolina",122607,35,18,26
+"Victorville, California",122312,19,18,18
+"Allentown, Pennsylvania",121433,70,18,44
+"Odessa, Texas",120568,40,18,29
+"Beaumont, Texas",118428,33,18,25
+"Manchester, New Hampshire",112525,49,13,31
+"Pueblo, Colorado",111750,35,18,26
+"Lakeland, Florida",110516,37,18,27
+"Greeley, Colorado",107348,36,18,27
+"Tyler, Texas",105729,36,18,27
+"Kenosha, Wisconsin",100164,45,18,31
+"Vacaville, California",100154,33,18,25
+"Edinburg, Texas",98665,28,18,23
+"Albany, New York",97279,65,8,37
+"Nampa, Idaho",96252,30,18,24
+"Yakima, Washington",93884,50,18,34
+"Greenville, North Carolina",93137,33,18,25
+"Lawton, Oklahoma",92859,34,18,26
+"Asheville, North Carolina",92452,36,14,25
+"Tracy, California",91812,42,18,30
+"Suffolk, Virginia",91185,15,18,16
+"Nashua, New Hampshire",89246,38,13,26
+"Bryan, Texas",85445,33,18,25
+"Danbury, Connecticut",84730,39,18,28
+"Merced, California",83316,38,18,28
+"Kennewick, Washington",82943,34,18,26
+"Lynchburg, Virginia",82126,29,18,23
+"Longview, Texas",81647,29,18,23
+"Bloomington, Illinois",77962,35,18,26
+"Loveland, Colorado",77446,26,18,22
+"Gastonia, North Carolina",77024,24,18,21
+"Temple, Texas",76256,31,18,24
+"Pasco, Washington",74778,36,18,27
+"Georgetown, Texas",74180,22,18,20
+"Flagstaff, Arizona",73964,38,18,28
+"Turlock, California",73504,41,18,29
+"Bismarck, North Dakota",73112,36,29,33
+"Jacksonville, North Carolina",72896,25,18,21
+"Lafayette, Indiana",72168,36,18,27
+"Decatur, Illinois",71290,32,18,25
+"Camarillo, California",69127,42,18,30
+"Muncie, Indiana",68529,37,18,27
+"Dothan, Alabama",68247,23,18,20
+"Waterloo, Iowa",67798,37,18,27
+"Victoria, Texas",67015,35,18,26
+"Lodi, California",66995,55,18,36
+"Oshkosh, Wisconsin",66729,42,18,30
+"Madera, California",65706,44,18,31
+"Harlingen, Texas",65436,36,18,27
+"Tulare, California",64475,40,18,29
+"Haverhill, Massachusetts",64041,41,18,29
+"Lorain, Ohio",64028,37,18,27
+"Petaluma, California",61917,47,18,32
+"Woodland, California",60531,48,18,33
+"Utica, New York",60100,58,18,38
+"Porterville, California",59988,40,18,29
+"Vineland, New Jersey",59966,26,18,22
+"Lancaster, Pennsylvania",59420,81,18,49
+"Springfield, Ohio",59282,40,18,29
+"Kokomo, Indiana",57869,38,18,28
+"Taunton, Massachusetts",57296,28,18,23
+"Hanford, California",56910,35,18,26
+"Valdosta, Georgia",56426,30,18,24
+"Novato, California",55655,33,18,25
+"Carson, Nevada",55414,35,18,26
+"Anderson, Indiana",55037,31,18,24
+"Albany, Oregon",54453,34,18,26
+"Kingsport, Tennessee",54076,24,18,21
+"Harrisonburg, Virginia",54033,45,18,31
+"Watsonville, California",53920,65,18,41
+"Leesburg, Virginia",53917,36,18,27
+"Burlington, North Carolina",53748,33,18,25
+"Peabody, Massachusetts",53278,41,18,29
+"Milford, Connecticut",53120,31,18,24
+"Delano, California",53014,34,18,26
+"Pensacola, Florida",52713,35,18,26
+"Elkhart, Indiana",52367,37,18,27
+"Kentwood, Michigan",51868,24,18,21
+"Logan, Utah",51619,41,18,29
+"Smyrna, Tennessee",50775,19,18,18
+"Methuen, Massachusetts",50698,37,18,27
+"Plainfield, New Jersey",50693,59,18,38
+"Joplin, Missouri",50657,36,18,27
+"Galveston, Texas",50457,54,18,36
+"Newark, Ohio",50029,31,18,24
+"Boulder, Colorado",107353,57,41,49
+"Davis, California",69289,44,38,41
+"Bloomington, Indiana",84981,43,30,37
+"Ames, Iowa",67154,43,29,36
+"Chico, California",94776,45,24,35
+"Casper, Wyoming",57461,39,24,32
+"Bentonville, Arkansas",51111,25,24,25
+"Eugene, Oregon",171245,45,23,34
+"Columbia, Missouri",123180,31,23,27
+"Bend, Oregon",97590,33,23,28
+"Bellingham, Washington",90665,49,23,36
+"Fayetteville, Arkansas",86751,32,23,28
+"Missoula, Montana",74428,46,23,35
+"Corvallis, Oregon",58641,48,23,36
+"Springfield, Missouri",168122,38,22,30
+"Topeka, Kansas",125904,36,22,29
+"Davenport, Iowa",102085,41,22,32
+"Lawrence, Kansas",97286,39,22,31
+"Duluth, Minnesota",85884,35,22,29
+"Kalamazoo, Michigan",76545,48,22,35
+"Dubuque, Iowa",57941,40,22,31
+"Rockford, Illinois",146526,42,21,32
+"Lansing, Michigan",118427,43,21,32
+"Billings, Montana",109550,35,21,28
+"Erie, Pennsylvania",96471,59,21,40
+"Flint, Michigan",95943,43,21,32
+"Champaign, Illinois",88029,50,21,36
+"Racine, Wisconsin",77432,56,21,39
+"Appleton, Wisconsin",74526,42,21,32
+"Auburn, Alabama",65738,27,21,24
+"Janesville, Wisconsin",64565,35,21,28
+"Cheyenne, Wyoming",63957,37,21,29
+"Manhattan, Kansas",54959,39,21,30
+"Olympia, Washington",52555,39,21,30
+"Clarksville, Tennessee",156794,18,20,19
+"Norman, Oklahoma",123471,31,20,26
+"Evansville, Indiana",117963,42,20,31
+"Montgomery, Alabama",198218,26,19,23
+"Mobile, Alabama",189572,32,19,26
+"Rochester, Minnesota",116961,30,16,23
+"Yuma, Arizona",97908,31,16,24
+"Medford, Oregon",82347,37,16,27
+"Napa, California",79263,42,16,29
+"Portland, Maine",66417,61,16,39
+"Decatur, Alabama",54264,25,16,21
+"Stillwater, Oklahoma",50391,36,16,26
+"Roanoke, Virginia",99920,42,15,29
+"Tallahassee, Florida",193551,32,14,23
+"Knoxville, Tennessee",187500,31,14,23
+"Gainesville, Florida",133857,36,14,25
+"Athens, Georgia",125964,27,14,21
+"Longmont, Colorado",96577,39,14,27
+"Redding, California",91772,26,14,20
+"Frederick, Maryland",72146,46,14,30
+"Richland, Washington",57303,33,14,24
+"Huntsville, Alabama",197318,24,13,19
+"Augusta, Georgia",196939,37,13,25
+"Salem, Oregon",173442,42,13,28
+"Peoria, Illinois",111388,39,13,26
+"Canton, Ohio",70458,48,13,31
+"Shreveport, Louisiana",188987,31,12,22
+"Worcester, Massachusetts",185877,56,12,34
+"Macon, Georgia",153095,31,12,22
+"Savannah, Georgia",145862,43,12,28
+"Springfield, Illinois",114694,35,12,24
+"Jonesboro, Arkansas",76990,21,12,17
+"Jackson, Mississippi",164422,28,11,20
+"Columbus, Georgia",194160,26,8,17
+"Lafayette, Louisiana",126143,42,8,25
+"Fairfield, California",116884,32,8,20
+"Waterbury, Connecticut",108093,48,8,28
+"Tuscaloosa, Alabama",101113,33,8,21
+"Livermore, California",90269,40,8,24
+"Albany, Georgia",75249,25,8,17
+"Jackson, Tennessee",66903,25,8,17
+"Youngstown, Ohio",64958,37,8,23
+"Owensboro, Kentucky",59809,36,8,22
+"Pocatello, Idaho",56266,38,8,23
+"Little Rock, Arkansas",197881,37,22,30
+"Port St. Lucie, Florida",195248,13,18,15
+"Sioux Falls, South Dakota",181883,37,14,26
+"Santa Rosa, California",177586,44,14,29
+"Fort Collins, Colorado",167830,37,32,35
+"Cedar Rapids, Iowa",133174,37,22,30
+"Ann Arbor, Michigan",121890,37,22,30
+"College Station, Texas",116218,37,18,27
+"Santa Maria, California",107408,47,36,42
+"Green Bay, Wisconsin",104879,37,21,29
+"Wichita Falls, Texas",104576,30,18,24
+"Las Cruces, New Mexico",102926,32,13,23
+"South Bend, Indiana",101860,37,21,29
+"San Angelo, Texas",100215,31,18,24
+"New Bedford, Massachusetts",95315,66,18,42
+"Fort Smith, Arkansas",87845,34,21,28
+"St. George, Utah",87178,29,18,23
+"Santa Fe, New Mexico",84612,39,14,27
+"New Braunfels, Texas",84612,21,18,19
+"Sioux City, Iowa",82396,37,13,25
+"Lake Charles, Louisiana",78001,37,8,23
+"Iowa City, Iowa",76290,37,22,30
+"St. Joseph, Missouri",75959,33,18,25
+"Rapid City, South Dakota",75443,29,22,26
+"Apple Valley, California",73508,12,18,15
+"Eau Claire, Wisconsin",68866,34,30,32
+"Bowling Green, Kentucky",68401,35,12,24
+"St. Cloud, Minnesota",68043,31,18,24
+"Mount Vernon, New York",67593,37,8,23
+"Redondo Beach, California",67412,71,18,44
+"Yuba City, California",66992,40,18,29
+"Johnson City, Tennessee",66778,25,21,23
+"San Marcos, Texas",63509,39,18,28
+"Grand Junction, Colorado",63374,31,18,24
+"Idaho Falls, Idaho",61535,40,8,24
+"Terre Haute, Indiana",60753,37,18,27
+"Great Falls, Montana",58701,43,16,30
+"Grand Forks, North Dakota",56948,40,24,32
+"Blue Springs, Missouri",55104,27,18,22
+"Lake Havasu City, Arizona",55090,16,18,17
+"Port Arthur, Texas",55018,34,18,26
+"Rocky Mount, North Carolina",54242,23,18,20
+"Palm Desert, California",53185,37,18,27
+"La Crosse, Wisconsin",51567,53,18,35
+"Grand Island, Nebraska",51478,40,16,28
+"Coeur d'Alene, Idaho",51303,35,18,26
+"Battle Creek, Michigan",51247,37,18,27
