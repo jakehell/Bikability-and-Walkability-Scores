@@ -42,30 +42,3 @@ fun getWalkScore(cityName: String, stateAcronym: String?): String {
 
     return matchResult?.groups?.get(1)?.value!!;
 }
-
-fun trustAllSsl()
-{
-    // Create a trust manager that does not validate certificate chains
-    val trustAllCerts: Array<TrustManager> = arrayOf<TrustManager>(
-            object : X509TrustManager {
-                override fun checkClientTrusted(
-                        certs: Array<X509Certificate?>?, authType: String?) {
-                }
-
-                override fun checkServerTrusted(
-                        certs: Array<X509Certificate?>?, authType: String?) {
-                }
-
-                override fun getAcceptedIssuers(): Array<X509Certificate> {
-                    return emptyArray<X509Certificate>()
-                }
-            }
-    )
-
-    try {
-        val sc: SSLContext = SSLContext.getInstance("SSL")
-        sc.init(null, trustAllCerts, SecureRandom())
-        HttpsURLConnection.setDefaultSSLSocketFactory(sc.socketFactory)
-    } catch (e: GeneralSecurityException) {
-    }
-}

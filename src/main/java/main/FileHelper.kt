@@ -3,6 +3,13 @@ package main
 import com.google.gson.Gson
 import model.PeopleForBikesResult
 import java.net.URL
+import java.security.GeneralSecurityException
+import java.security.SecureRandom
+import java.security.cert.X509Certificate
+import javax.net.ssl.HttpsURLConnection
+import javax.net.ssl.SSLContext
+import javax.net.ssl.TrustManager
+import javax.net.ssl.X509TrustManager
 
 fun getLocation(args: String): String {
     val regex = Regex(""".*?"(.*)".*""")
@@ -79,4 +86,31 @@ fun getStateAcronym(args: String) : String? {
     map["Wyoming"] = "WY"
 
     return map[args]
+}
+
+fun trustAllSsl()
+{
+    // Create a trust manager that does not validate certificate chains
+    val trustAllCerts: Array<TrustManager> = arrayOf<TrustManager>(
+            object : X509TrustManager {
+                override fun checkClientTrusted(
+                        certs: Array<X509Certificate?>?, authType: String?) {
+                }
+
+                override fun checkServerTrusted(
+                        certs: Array<X509Certificate?>?, authType: String?) {
+                }
+
+                override fun getAcceptedIssuers(): Array<X509Certificate> {
+                    return emptyArray<X509Certificate>()
+                }
+            }
+    )
+
+    try {
+        val sc: SSLContext = SSLContext.getInstance("SSL")
+        sc.init(null, trustAllCerts, SecureRandom())
+        HttpsURLConnection.setDefaultSSLSocketFactory(sc.socketFactory)
+    } catch (e: GeneralSecurityException) {
+    }
 }
